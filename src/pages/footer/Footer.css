@@ -1,0 +1,26 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1c1d1f;
+  padding: 20px 0px;
+}
+
+.footer-selection {
+}
+
+.footer-selection-detail {
+  margin-right: 50px;
+}
+.footer-selection-detail a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* .footer-logo {
+  padding: 50px 25px;
+} */
+
+.footer-logo img {
+  width: 15%;
+}

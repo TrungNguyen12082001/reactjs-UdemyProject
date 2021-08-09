@@ -1,0 +1,28 @@
+.course {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 25%;
+  box-sizing: unset;
+}
+
+.course-detail {
+  padding: 30px 55px;
+  height: 100px;
+}
+
+.course-card {
+  margin-bottom: 20px;
+  width: 25%;
+  margin-right: 10px;
+}
+.course-card button {
+  text-align: center;
+}
+
+.course-title {
+  text-align: center;
+}
+
+.course-slider {
+  width: 100%;
+}
