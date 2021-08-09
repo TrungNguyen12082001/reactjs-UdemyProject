@@ -186,7 +186,7 @@ export default function Home(props) {
         </div>
       </div>
 
-      <div className="services">
+      {/* <div className="services">
         <div>
           <h1>1</h1>
           <div className="search">
@@ -223,7 +223,7 @@ export default function Home(props) {
             </p>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Top tutors */}
       {/* <div className="section section-b rel">
